@@ -1,7 +1,7 @@
 import { createInterface } from 'readline';
 import readline from 'readline/promises';
 
-const API_KEY = 'f72cd393e8237d3707368f7ae4c67b97';
+const API_KEY = 'Your API KEY';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const rl = readline.createInterface({
